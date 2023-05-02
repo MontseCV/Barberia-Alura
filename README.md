@@ -1,2 +1,1 @@
-Proyecto Barbería Alura
-Uso de HTML y CSS 
+Proyecto Barbería Alura - uso de HTML y CSS 
